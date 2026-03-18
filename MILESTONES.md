@@ -1,0 +1,3 @@
+- 12 March 1989: First proposal of the World Wide Web by Tim Berners‑Lee.
+- 30 April 1993: CERN releases the web software into the public domain.
+- 1995: Commercial browsers such as Netscape Navigator launch, fueling the dot‑com boom.
